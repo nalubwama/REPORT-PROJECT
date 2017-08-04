@@ -1,0 +1,130 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+one{
+    background-color: aqua;
+    height: 670px;
+}
+.two{
+    background-color: #518acb;
+    height: 730px;
+}
+.two1{
+    background-color:#ffffff;
+    height: 730px;
+}
+.reports{
+    text-align: center;
+    margin: 20px;
+     color: #518acb;
+}
+button[class="display"]{
+    background-color: #518acb;
+    color: white;
+    font-size: 13px;
+    border-radius: 5px;
+}
+a[href="sign"]{
+    margin-left: 5px;
+}
+.input-group{
+    margin-left: 120px;
+    margin-top: -30px;
+}
+.btn-default{
+    height: 34px;
+    background-color: #518acb:
+}
+button{
+    background-color: #518acb;
+}
+.filter{
+    color: white;
+}
+input[type="search"]{
+    width: 85%;
+    padding-left: 10px;
+    color: gray;
+    font-size: 12px;
+    height: 25px;
+    border: 1px solid lavander;
+}
+.filter{
+    background-color: #518acb;
+    color: white;
+    margin-top: -25px;
+}
+hr[style="horizontal"]{
+    width: 95%;
+    margin-left: -10px;
+    
+}
+.col-md-4{
+    background-color:white;
+    height: 550px;
+}
+.box1{
+    width: 260px;
+    height: 120px;
+    background-color: #518acb;
+}
+.box2{
+    width: 260px;
+    height: 120px;
+    background-color: #518acb;
+}
+.box3{
+    width: 260px;
+    height: 120px;
+    background-color: #518acb;
+}
+.box4{
+    width: 260px;
+    height: 120px;
+    background-color: #518acb;
+}
+.current{
+    color: white;
+    padding-top: 15px;
+    font-size: 12px;
+    background-color: #518acb;
+}
+input[type="current"]{
+    background-color: #f99400 ;
+    padding-left: 15px;
+    margin-left: -4px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #f99400;
+}
+.boximg{
+    float: right;
+    width: 60px;
+    height: 50px;
+    margin-top: -12px;
+    
+}
+.cgrade{
+    margin-top: 25px;
+    margin-left: 10px;
+    font-size: 12px;
+}
+.current-c{
+    color: white;
+    padding-top: 15px;
+    font-size: 12px;
+    background-color: #518acb;
+}
+.student{
+     color: white;
+    padding-top: 15px;
+    font-size: 12px;
+    background-color: #518acb;
+}
+.group{
+     color: white;
+    padding-top:15px; 
+    font-size: 12px;
+    background-color: #518acb;
+    
+}
